@@ -17,3 +17,4 @@ This project is a lofi music website built using React.js. It provides a soothin
 3. Install the dependencies: `yarn install`
 4. Start the development server: `yarn start`
 5. Open your browser and visit
+# fahmipw.github.io-lofi
