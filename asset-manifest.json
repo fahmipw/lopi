@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chill/static/css/main.52b8cdce.css",
+    "main.js": "/chill/static/js/main.11613a07.js",
+    "index.html": "/chill/index.html",
+    "main.52b8cdce.css.map": "/chill/static/css/main.52b8cdce.css.map",
+    "main.11613a07.js.map": "/chill/static/js/main.11613a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b8cdce.css",
+    "static/js/main.11613a07.js"
+  ]
+}
