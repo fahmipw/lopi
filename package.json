@@ -1,4 +1,5 @@
 {
+  "homepage": "https://fahmipw.github.io/lopi",
   "name": "lofi-clone",
   "version": "0.1.0",
   "private": true,
@@ -32,6 +33,8 @@
   },
   "scripts": {
     "start": "set PORT=3005 && react-scripts start",
+    "predeploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
